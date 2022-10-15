@@ -1,0 +1,3 @@
+Can we reverse a linked list in less than O(n) ?
+
+No. We cannot. We need to traverse to the end of the linked list...
