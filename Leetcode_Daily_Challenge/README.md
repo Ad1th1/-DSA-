@@ -1,1 +1,0 @@
-Daily streak, forever, Ahoy!
